@@ -9,8 +9,7 @@
   <h3 align="center">A Fintech Bank Application</h3>
 </div>
 
-
- is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+`Dompetku` Is A Modern Management Financial For Your Bank Account, Easy Transfer To All Bank In The Word.
 
 ## Getting Started
 
