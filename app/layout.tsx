@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import "./globals.css";
 
-const inter = Poppins({ subsets: ["latin"], weight: ['500'], variable: '--font-inter' });
+const inter = Poppins({ subsets: ["latin"], weight: ['400'], variable: '--font-inter' });
 const ibmPlexSerif = Poppins({
   subsets: ['latin'],
   weight: ['400', '700'],
