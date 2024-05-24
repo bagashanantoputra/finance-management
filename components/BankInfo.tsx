@@ -58,7 +58,7 @@ const BankInfo = ({ account, appwriteItemId, type }: BankInfoProps) => {
             <p
               className={`text-12 rounded-full px-3 py-1 font-medium text-blue-700 ${colors.subText} ${colors.lightBg}`}
             >
-              {account.subtype}
+              {account.subtype.charAt(0).toUpperCase() + account.subtype.slice(1)}
             </p>
           )}
         </div>
